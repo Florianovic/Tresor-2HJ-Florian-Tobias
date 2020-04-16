@@ -6,14 +6,15 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
 
 ### Inhaltsverzeihnis
 <ul>
-  <li>Komponentenliste</li>
+  <li><a href="#komponenen">Komponentenliste</a></li>
   <li>Funktionsweise Keypad</li>
   <li>Der Code</li>
   <li>Das Endprodukt</li>
   <li>Das Problem mit dem LCD</li>
  </ul>
   
-### Komponentenliste
+  
+<h2 id="komponenten">Komponentenliste</h2>
 <ul>
   <li>Arduino Uno</li>
   <li>Servo</li>
