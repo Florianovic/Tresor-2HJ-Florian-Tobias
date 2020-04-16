@@ -7,10 +7,10 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
 ### Inhaltsverzeihnis
 <ul>
   <li><a href="#komponenten">Komponentenliste</a></li>
-  <li>Funktionsweise Keypad</li>
-  <li>Der Code</li>
-  <li>Das Endprodukt</li>
-  <li>Das Problem mit dem LCD</li>
+  <li><a href="#keypad">Funktionsweise Keypad</a></li>
+  <li><a href="#code">Der Code</a></li>
+  <li><a href="#endprodukt">Das Endprodukt</a></li>
+  <li><a href="lcd">Das Problem mit dem LCD</a></li>
  </ul>
   
   
@@ -24,17 +24,17 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
  </ul>
   
   
-### Keypad:
+<h2 id="keypad">Das Keypad</h2>
 Das Keypad ist eine Komponente mit der man einen Zahlen- bzw. Buchstaben-Code eingeben kann, welcher beispielsweise ein Signal zur Aktivierung eines Servos verursacht. 
 Es ist aufgeteilt in vier waagerechte Zeilen und vier senkrechte Spalten. Jede Zeile bzw. Spalte ist mit je einem Pin des Arduinos belegt, so dass für die 16 Tasten nur acht Pins benutzt werden müssen. Dabei werden vier Pins als Eingänge und vier Pins als Ausgänge des Arduinos festgelegt. Durch das Drücken einer beliebigen Taste werden nun Zeile und Spalte dieser Taste verbunden und somit auch Eingang und Ausgang des Arduinos. Eine Spannung wird gemessen und durch die Zuordnung der Pins auf die Spalten und Zeilen lässt sich jede gedrückte Taste genau bestimmen.
 
 
-### Der Code
+<h2 id="code">Der Code<h2>
 
 
-### Das Endprodukt
+<h2 id="endprodukt">Das Endprodukt</h2>
 
 
 
-### Das Problem mit dem LCD
+<h2 id="lcd">Das Problem mit dem LCD</h2>
 Bis zum Ende hatten wir gehofft zusätzlich ein LCD Monitor einzubauen, welcher die auf dem Keypad eingegebenen Zahlen anzeigt und anzeigt, ob der eingegebene Code korrekt oder falsch ist. Leider ist uns dies bis zum Schluss trotz stundenlangem Probieren nicht gelungen. Wir haben uns mehrfach mit Mitschülern in Verbindung gesetzt und diese, neben eigenen Recherchen, befragt, ob sie uns Tipps geben können wie wir den Monitor zum Laufen bringen können. Selbst nachdem wir einen Code vollständig übernommen und alle Bibliotheken genau so installiert hatten wie angegeben funktionierte der Monitor immer noch nicht. Desshalb haben wir uns schweren Herzens nach mehreren Stunden dazu entscheiden müssen den Monitor zu streichen. Wir wissen leider immer noch nicht was der Fehler war und wieso der Monitor nicht funktioniert hat, aber um unseren Zeitplan einhalten zu können gab es für uns keine andere Option.
