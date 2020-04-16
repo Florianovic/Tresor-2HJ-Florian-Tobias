@@ -1,6 +1,15 @@
 # Tresor-2HJ-Florian-Tobias
 
+## Über das Projekt:
+Wir haben uns für dieses Halbjahr dazu entschieden einen Tresor zu aufbewahren von Gegenständen zu bauen, welcher mit einem Code, welcher über ein Tastenfeld eingegeben wird, geöffnet weren kann. Als Schließmechanismus soll ein Servomotor dienen, welcher verhindert, dass die Tür geöffnet wird wenn ein falscher Code eingegeben wurde. </br>
+Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
 
+### Inhaltsverzeihnis
+<ul>
+  <li>Komponentenliste</li>
+  <li>Der Code</li>
+  <li>Das Endprodukt</li>
+  <li>Das Problem mit dem LCD</li>
 
 ### Keypad:
 Das Keypad ist eine Komponente mit der man einen Zahlen- bzw. Buchstaben-Code eingeben kann, welcher beispielsweise ein Signal zur Aktivierung eines Servos verursacht. 
