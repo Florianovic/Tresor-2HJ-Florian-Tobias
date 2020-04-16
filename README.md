@@ -49,9 +49,10 @@ Es folgt der Code, bei welchem der Monitor das erste mal bei <a href="https://gi
 
 ![LCD-Test](https://github.com/Florianovic/Tresor-2HJ-Florian-Tobias/blob/master/LCD-Test.PNG)
 
+Bei uns wurde, andes als bei Dennis und Peter, nur ein beleuchteter Hintergrund angezeigt.
 
 <h2 id="fazit">Unser Fazit</h2>
-Leider haben wir all unsere Energie bis zum Ende in den Monitor geteckt, sodass im Endeffekt nur ein Projekt von geringem Umfang entstand. Zusätzlich mangelte es an Zeit, welche in das Projekt weiterhin Investiert hätte werden müssen, die aber leider nicht da war, da das Lernen für die Abiturprüfungen momentan einen höheren Stellenwert hat. Des Weiteren kam noch der Problemfaktor 'Corona' hinzu, welcher sowohl die Kommunikation, als auch das gemeinsame Arbeiten am Projekt deutlich erschwerte. 
+Leider haben wir all unsere Energie bis zum Ende darein geteckt den Monitor, welcher nunmal das komplexeste Bauteil des Projektes war, zum Laufen zu bringen, sodass im Endeffekt nur ein Projekt von geringem Umfang entstehen konnte. Des Weiteren kam noch der Problemfaktor 'Corona' hinzu, welcher sowohl die Kommunikation, als auch das gemeinsame Arbeiten am Projekt deutlich erschwerte. Im Endeffekt konnten wir deutlich weniger erreichen als wir uns vorgenommen hatten.
 
 <h2 id="quellen">Quellen</h2>
 
