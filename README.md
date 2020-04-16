@@ -1,7 +1,7 @@
 # Tresor-2HJ-Florian-Tobias
 
 ## Über das Projekt:
-Wir haben uns für dieses Halbjahr dazu entschieden einen Tresor zu aufbewahren von Gegenständen zu bauen, welcher mit einem Code, welcher über ein Tastenfeld eingegeben wird, geöffnet weren kann. Als Schließmechanismus soll ein Servomotor dienen, welcher verhindert, dass die Tür geöffnet wird wenn ein falscher Code eingegeben wurde. </br>
+Wir haben uns für dieses Halbjahr dazu entschieden einen Tresor zum sicheren Aufbewahren von Gegenständen zu bauen, welcher mit einem Code, der über ein Tastenfeld eingegeben wird, geöffnet weren kann. Als Schließmechanismus soll ein Servomotor dienen, welcher verhindert, dass die Tür geöffnet wird wenn ein falscher Code eingegeben wurde. </br>
 Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
 
 ### Inhaltsverzeihnis
@@ -22,6 +22,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
   <li>Gehäuse</li>
   <li>Einige Jumper-Kabel</li>
   <li>Keypad</li>
+  <li>Stromversorgung</li>
  </ul>
   
   
