@@ -41,6 +41,7 @@ Es ist aufgeteilt in vier waagerechte Zeilen und vier senkrechte Spalten. Jede Z
 <h2 id="lcd">Das Problem mit dem LCD</h2>
 Bis zum Ende hatten wir gehofft zusätzlich ein LCD Monitor einzubauen, welcher die auf dem Keypad eingegebenen Zahlen anzeigt und anzeigt, ob der eingegebene Code korrekt oder falsch ist. Leider ist uns dies bis zum Schluss trotz stundenlangem Probieren nicht gelungen. Zu erst haben wir den Fehler in den Komponenten gesucht, haben Kabel ausgetauscht und verschiedene Typen von Arduino verwendet (Uno und Mega) und haben uns al sich dies als erfolglos erwies mehrfach mit Mitschülern in Verbindung gesetzt und diese, neben eigenen Recherchen, nach Tipps wie wir den Monitor zum Laufen bringen könnten befragt. Selbst nachdem wir einen Code vollständig übernommen und alle Bibliotheken genau so installiert hatten wie angegeben, funktionierte der Monitor immer noch nicht. Desshalb haben wir uns schweren Herzens nach mehreren Stunden dazu entscheiden müssen den LCD-Monitor aus dem Projekt zu streichen. Wir wissen leider immer noch nicht was der Fehler war und wieso der Monitor nicht funktioniert hat, aber um unseren Zeitplan einhalten zu können gab es für uns keine andere Option. </br>
 Es folgt der Code, bei welchem der Monitor das erste mal bei <a href="https://github.com/dennis602/Stundenprotokoll-II#30">Dennis und Peter</a> funktioniert hatte:
+![LCD-Dennis-Peter](https://github.com/Florianovic/Tresor-2HJ-Florian-Tobias/blob/master/LCD-Test.PNG)
 
 
 <h2 id="quellen">Quellen</h2>
