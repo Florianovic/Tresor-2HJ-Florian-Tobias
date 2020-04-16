@@ -10,7 +10,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
   <li><a href="#keypad">Funktionsweise Keypad</a></li>
   <li><a href="#code">Der Code</a></li>
   <li><a href="#endprodukt">Das Endprodukt</a></li>
-  <li><a href="lcd">Das Problem mit dem LCD</a></li>
+  <li><a href="#lcd">Das Problem mit dem LCD</a></li>
  </ul>
   
   
