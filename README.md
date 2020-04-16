@@ -6,7 +6,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
 
 ### Inhaltsverzeihnis
 <ul>
-  <li><a href="#komponenen">Komponentenliste</a></li>
+  <li><a href="#komponenten">Komponentenliste</a></li>
   <li>Funktionsweise Keypad</li>
   <li>Der Code</li>
   <li>Das Endprodukt</li>
