@@ -34,7 +34,7 @@ Es ist aufgeteilt in vier waagerechte Zeilen und vier senkrechte Spalten. Jede Z
 <h2 id="code">Der Code<h2>
   
   ![Code Teil1](https://raw.githubusercontent.com/Florianovic/Tresor-2HJ-Florian-Tobias/master/Keypad%20Teil%201.JPG)
-  ![Code Teil2]
+  ![Code Teil2](https://raw.githubusercontent.com/Florianovic/Tresor-2HJ-Florian-Tobias/master/Keypad%20Teil%202.JPG)
 
 
 <h2 id="endprodukt">Das Endprodukt</h2>
