@@ -11,7 +11,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
   <li>Der Code</li>
   <li>Das Endprodukt</li>
   <li>Das Problem mit dem LCD</li>
-  
+ </ul>
   
 ### Komponentenliste
 <ul>
@@ -20,7 +20,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
   <li>Gehäuse</li>
   <li>Einige Jumper-Kabel</li>
   <li>Keypad</li>
-  
+ </ul>
   
   
 ### Keypad:
