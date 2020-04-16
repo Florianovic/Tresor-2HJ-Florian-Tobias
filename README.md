@@ -11,6 +11,7 @@ Es folgt eine Komponentenliste und eine Anleitung zum Code für unser Projekt.
   <li><a href="#code">Der Code</a></li>
   <li><a href="#endprodukt">Das Endprodukt</a></li>
   <li><a href="#lcd">Das Problem mit dem LCD</a></li>
+  <li><a href="#fazit">Fazit</a></li>
   <li><a href="#quellen">Quellen</a></li>
  </ul>
   
@@ -42,12 +43,15 @@ Es ist aufgeteilt in vier waagerechte Zeilen und vier senkrechte Spalten. Jede Z
 
 
 <h2 id="lcd">Das Problem mit dem LCD</h2>
-Bis zum Ende hatten wir gehofft zusätzlich ein LCD Monitor einzubauen, welcher die auf dem Keypad eingegebenen Zahlen anzeigt und anzeigt, ob der eingegebene Code korrekt oder falsch ist. Leider ist uns dies bis zum Schluss trotz stundenlangem Probieren nicht gelungen. Zu erst haben wir den Fehler in den Komponenten gesucht, haben Kabel ausgetauscht und verschiedene Typen von Arduino verwendet (Uno und Mega) und haben uns al sich dies als erfolglos erwies mehrfach mit Mitschülern in Verbindung gesetzt und diese, neben eigenen Recherchen, nach Tipps wie wir den Monitor zum Laufen bringen könnten befragt. Selbst nachdem wir einen Code vollständig übernommen und alle Bibliotheken genau so installiert hatten wie angegeben, funktionierte der Monitor immer noch nicht. Desshalb haben wir uns schweren Herzens nach mehreren Stunden dazu entscheiden müssen den LCD-Monitor aus dem Projekt zu streichen. Wir wissen leider immer noch nicht was der Fehler war und wieso der Monitor nicht funktioniert hat, aber um unseren Zeitplan einhalten zu können gab es für uns keine andere Option. </br>
-Es folgt der Code, bei welchem der Monitor das erste mal bei <a href="https://github.com/dennis602/Stundenprotokoll-II#30">Dennis und Peter</a> funktioniert hatte:
+Bis zum Ende hatten wir gehofft zusätzlich ein LCD Monitor einzubauen, welcher die auf dem Keypad eingegebenen Zahlen anzeigt und angiebt, ob der eingegebene Code korrekt oder falsch ist. Leider ist uns dies bis zum Schluss trotz stundenlangem Probieren nicht gelungen. Zu erst haben wir den Fehler in den Komponenten gesucht, haben Kabel ausgetauscht und verschiedene Typen von Arduino verwendet (Uno und Mega) und haben uns als sich dies als erfolglos erwies mehrfach mit Mitschülern in Verbindung gesetzt und diese, neben eigenen Recherchen, nach Tipps wie wir den Monitor zum Laufen bringen könnten befragt. Selbst nachdem wir einen Code vollständig übernommen und alle Bibliotheken genau so installiert hatten wie angegeben, funktionierte der Monitor immer noch nicht. Desshalb haben wir uns schweren Herzens dazu entscheiden müssen den LCD-Monitor aus dem Projekt zu streichen. Wir wissen leider immer noch nicht was der Fehler war und wieso der Monitor nicht funktioniert hat. <br>
+Es folgt der Code, bei welchem der Monitor das erste mal bei <a href="https://github.com/dennis602/Stundenprotokoll-II#30">Dennis und Peter</a> funktioniert hatte, bei uns jedoch nicht:
 
 
 ![LCD-Test](https://github.com/Florianovic/Tresor-2HJ-Florian-Tobias/blob/master/LCD-Test.PNG)
 
+
+<h2 id="fazit">Unser Fazit</h2>
+Leider haben wir all unsere Energie bis zum Ende in den Monitor geteckt, sodass im Endeffekt nur ein Projekt von geringem Umfang entstand. Zusätzlich mangelte es an Zeit, welche in das Projekt weiterhin Investiert hätte werden müssen, die aber leider nicht da war, da das Lernen für die Abiturprüfungen momentan einen höheren Stellenwert hat. Des Weiteren kam noch der Problemfaktor 'Corona' hinzu, welcher sowohl die Kommunikation, als auch das gemeinsame Arbeiten am Projekt deutlich erschwerte. 
 
 <h2 id="quellen">Quellen</h2>
 
