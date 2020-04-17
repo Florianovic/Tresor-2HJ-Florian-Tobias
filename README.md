@@ -52,7 +52,7 @@ Es folgt der Code, bei welchem der Monitor das erste mal bei <a href="https://gi
 Bei uns wurde, andes als bei Dennis und Peter, nur ein beleuchteter Hintergrund angezeigt.
 
 <h2 id="fazit">Unser Fazit</h2>
-Leider haben wir all unsere Energie bis zum Ende darein geteckt den Monitor, welcher nunmal das komplexeste Bauteil des Projektes war, zum Laufen zu bringen, sodass im Endeffekt nur ein Projekt von geringem Umfang entstehen konnte. Des Weiteren kam noch der Problemfaktor 'Corona' hinzu, welcher sowohl die Kommunikation, als auch das gemeinsame Arbeiten am Projekt deutlich erschwerte. Im Endeffekt konnten wir deutlich weniger erreichen als wir uns vorgenommen hatten.
+Leider haben wir all unsere Energie bis zum Ende darein gesteckt den Monitor, welcher nunmal das komplexeste Bauteil des Projektes war, zum Laufen zu bringen, sodass im Endeffekt nur ein Projekt von geringem Umfang entstehen konnte. Des Weiteren kam noch der Problemfaktor 'Corona' hinzu, welcher sowohl die Kommunikation, als auch das gemeinsame Arbeiten am Projekt deutlich erschwerte. Im Endeffekt konnten wir deutlich weniger erreichen als wir uns vorgenommen hatten.
 
 <h2 id="quellen">Quellen</h2>
 
