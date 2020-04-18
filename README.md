@@ -39,8 +39,8 @@ Es ist aufgeteilt in vier waagerechte Zeilen und vier senkrechte Spalten. Jede Z
 
 
 <h2 id="endprodukt">Das Endprodukt</h2>
+<p align="center"><a href="https://youtu.be/mYkLfzecf9w"><img src="https://github.com/Florianovic/Tresor-2HJ-Florian-Tobias/blob/master/S1190001.JPG" width="400px"><br>Link zum Video</a></p>
 
-Ein Video folgt auf Grund von Internetproblemen in Kürze, wir bitten dies zu entschuldigen.
 
 <h2 id="lcd">Das Problem mit dem LCD</h2>
 Bis zum Ende hatten wir gehofft zusätzlich ein LCD Monitor einzubauen, welcher die auf dem Keypad eingegebenen Zahlen anzeigt und angiebt, ob der eingegebene Code korrekt oder falsch ist. Leider ist uns dies bis zum Schluss trotz stundenlangem Probieren nicht gelungen. Zu erst haben wir den Fehler in den Komponenten gesucht, haben Kabel ausgetauscht und verschiedene Typen von Arduino verwendet (Uno und Mega) und haben uns als sich dies als erfolglos erwies mehrfach mit Mitschülern in Verbindung gesetzt und diese, neben eigenen Recherchen, nach Tipps wie wir den Monitor zum Laufen bringen könnten befragt. Selbst nachdem wir einen Code vollständig übernommen und alle Bibliotheken genau so installiert hatten wie angegeben, funktionierte der Monitor immer noch nicht. Desshalb haben wir uns schweren Herzens dazu entscheiden müssen den LCD-Monitor aus dem Projekt zu streichen. Wir wissen leider immer noch nicht was der Fehler war und wieso der Monitor nicht funktioniert hat. <br>
